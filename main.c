@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// İsim Soyisim: Fadile
+// İsim Soyisim: Fadile Çolak
 // Öğrenci Numarası: 2420171040
 // BTK Akademi Sertifika Linki: NowfnBYIAK
 
@@ -60,5 +60,6 @@ int main() {
 
     return 0;
 }
+
 
 
