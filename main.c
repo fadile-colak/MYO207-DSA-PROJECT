@@ -2,7 +2,7 @@
 
 // İsim Soyisim: Fadile
 // Öğrenci Numarası: 2420171040
-// BTK Akademi Sertifika Linki: BURAYA_SERTIFIKA_LINKI
+// BTK Akademi Sertifika Linki: NowfnBYIAK
 
 void bubbleSort(int arr[], int n) {
     int i, j, temp;
@@ -60,4 +60,5 @@ int main() {
 
     return 0;
 }
+
 
