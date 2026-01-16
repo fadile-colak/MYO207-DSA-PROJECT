@@ -2,7 +2,7 @@
 
 // İsim Soyisim: Fadile Çolak
 // Öğrenci Numarası: 2420171040
-// BTK Akademi Sertifika Linkihttps://www.btkakademi.gov.tr/portal/certificate/ NowfnBYIAK
+// BTK Akademi Sertifika https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId= NowfnBYIAK
 
 
 void bubbleSort(int arr[], int n) {
@@ -61,6 +61,7 @@ int main() {
 
     return 0;
 }
+
 
 
 
